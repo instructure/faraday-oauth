@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     faraday-oauth (0.1.0)
-      faraday (>= 1.10, < 3)
+      faraday (~> 2.0)
       simple_oauth (~> 0.3)
 
 GEM
